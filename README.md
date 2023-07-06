@@ -13,3 +13,5 @@ To run the program on two different devices:
 - Connect Player 1 to Player 2 by inputting the correct socket connection info in the starting windows
 - Play a game of Tic Tac Toe
 - Continue playing by selecting the "play again" option on player 1's window - or - stop playing and view your results!
+
+<img width="700" alt="twoWindows" src="https://github.com/krishjp/TacTacToe-Sockets/assets/112897005/c7eeedcf-1a77-4868-b13a-eae80bc85bfd">
